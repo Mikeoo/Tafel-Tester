@@ -1,0 +1,15 @@
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\bin\Debug\TafelTester.exe.config
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\bin\Debug\TafelTester.exe
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\bin\Debug\TafelTester.pdb
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.csprojAssemblyReference.cache
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\MainWindow.g.cs
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\App.g.cs
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester_MarkupCompile.cache
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester_MarkupCompile.lref
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\MainWindow.baml
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.g.resources
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.Properties.Resources.resources
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.csproj.GenerateResource.cache
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.csproj.CoreCompileInputs.cache
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.exe
+C:\Users\mikeoverbeek\Source\Repos\Tafel-Tester\TafelTester\obj\Debug\TafelTester.pdb
